@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Tinkoff News</string>
+    <string name="error_no_internet">Sorry, can not connect to news server</string>
+
+</resources>
