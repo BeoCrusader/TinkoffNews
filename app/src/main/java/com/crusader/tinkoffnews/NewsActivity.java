@@ -161,7 +161,6 @@ public class NewsActivity extends AppCompatActivity {
             //Sort articles
             Collections.sort(articles, new articlesDateComparator());
         }
-        articleList.invalidate();
         adapter.notifyDataSetChanged();
 
         //Save to local file
